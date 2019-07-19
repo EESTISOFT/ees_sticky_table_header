@@ -1,7 +1,7 @@
 {
     'name': 'EESTISOFT - fixed table headers',
     'version': '12.0.1.0',
-    'author': 'EESTISOFT', 'Hideki Yamamoto',
+    'author': 'EESTISOFT, ' 'Hideki Yamamoto',
     'category': 'Productivity',
     'website': 'https://www.eestisoft.com',
     'sequence': 2,
