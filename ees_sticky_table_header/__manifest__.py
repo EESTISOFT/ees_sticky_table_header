@@ -6,7 +6,7 @@
     'website': 'https://www.eestisoft.com',
     'sequence': 2,
     'summary': 'Fixed table headers in tree views, pure css.',
-	  'images':['static/description/column.png'],
+	  'images':['static/description/ees_sticky_table_header.png'],
     'description': """
 This module adds only 2 lines of css in the backend assets and achieves fixed table headers for listviews in search results.
 ============
