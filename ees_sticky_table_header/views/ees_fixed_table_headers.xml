@@ -4,6 +4,6 @@
 		<xpath expr="." position="inside"><style>
 			div.table-responsive{overflow-y:auto;height:100%;}
       table.o_list_view.table th{top:0;position:sticky;background-color:#dddddd}
-		</xpath></style>
+		</style></xpath>
     </template>
 </odoo>
