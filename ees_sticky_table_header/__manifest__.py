@@ -19,7 +19,7 @@ Steps:
     'images': [],
     'depends': ['web'],
     'data': [
-		'views/ees_fixed_table_headers.xml',
+		'views/ees_sticky_table_header.xml',
     ],
     'installable': True,
     'application': True,
