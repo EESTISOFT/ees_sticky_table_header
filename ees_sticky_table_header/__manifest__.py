@@ -16,7 +16,6 @@ Steps:
 3-Clear browser cache and goto any odoo page with treeview and enough records to cause scrolling.
 4-Scroll down and enjoy fixed table headers
     """,
-    'images': [],
     'depends': ['web'],
     'data': [
 		'views/ees_sticky_table_header.xml',
